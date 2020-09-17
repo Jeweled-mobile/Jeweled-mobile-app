@@ -1,1 +1,1 @@
-# Jeweled-mobile-app
+# jewel-ionic
